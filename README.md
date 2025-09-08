@@ -4,19 +4,19 @@ Your AI-powered Teacher & Student Assistant
 EduMentor AI is an interactive Streamlit app that helps teachers and students save time and learn smarter.
 It can generate quizzes, chat with research papers (RAG PDF Assistant), and soon, summarize YouTube lectures into notes.
 
-# ✨ Features
+## ✨ Features
 
-## 📝 Quiz Generator
+### 📝 Quiz Generator
 Upload files (PDF, TXT) or paste notes/textbook content.
 Generate automatic multiple-choice quizzes with correct answers.
 Adjustable number of questions (3–15).
 
-## 📚 RAG PDF Chat
+### 📚 RAG PDF Chat
 Upload any research paper, whitepaper, or PDF.
 Ask questions about the document.
 Uses RAG (Retrieval-Augmented Generation) to provide accurate, context-aware answers.
 
-# 🛠️ Tech Stack
+### 🛠️ Tech Stack
 Streamlit
  – Frontend framework
 Google Gemini API
@@ -26,11 +26,10 @@ FAISS
 PyPDF2
  – PDF text extraction
 
-## 🎯 Use Cases
+### 🎯 Use Cases
 Teachers: Quickly generate assignments & quizzes.
 Students: Ask questions about research papers & get precise answers.
 Researchers: Summarize long whitepapers into concise notes.
 
-👨‍💻 Author
-Built with ❤️ by Sarthak
+## 👨‍💻 Built with ❤️ by Sarthak
  
