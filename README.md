@@ -1,4 +1,4 @@
-# 📘 EduMentor AI
+# 📘 ScholarSync AI
 Your AI-powered Teacher & Student Assistant
 
 EduMentor AI is an interactive Streamlit app that helps teachers and students save time and learn smarter.
